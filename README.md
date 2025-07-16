@@ -47,7 +47,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media1.tenor.com/images/fbcbdbff72bde829a29347bf162e870c/tenor.gif?itemid=3478341"  />
+<img align="center" height="300" src="https://media1.tenor.com/images/fbcbdbff72bde829a29347bf162e870c/tenor.gif?itemid=3478341"  />
 
 ###
 
