@@ -45,9 +45,7 @@
 
 <h2 align="left">🌐 Social Media</h2>
 
-###
 
-<img align="center" height="300" src="https://media1.tenor.com/images/fbcbdbff72bde829a29347bf162e870c/tenor.gif?itemid=3478341"  />
 
 ###
 
@@ -67,3 +65,5 @@
 </div>
 
 ###
+
+<img align="center" height="300" src="https://media1.tenor.com/images/fbcbdbff72bde829a29347bf162e870c/tenor.gif?itemid=3478341"  />
