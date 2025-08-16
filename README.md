@@ -70,7 +70,7 @@
 
 ---
 
-### 🛠️ Pentest & Red Team Tools
+### ⚔️ Pentest & Red Team Tools
 
 ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-1C2526?style=flat-square&logo=shodan&logoColor=white)
@@ -88,7 +88,7 @@
 
 ---
 
-### 🩻 DFIR & Malware Analysis
+### 🕵️ DFIR & Malware Analysis
 
 ![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat-square&logo=python&logoColor=white)
 ![Volatility3](https://img.shields.io/badge/Volatility3-4B0082?style=flat-square&logo=python&logoColor=white)
@@ -120,7 +120,7 @@
 
 
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥   My Stats </h2>
 
 ###
 
